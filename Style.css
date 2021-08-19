@@ -64,3 +64,7 @@
 .jumbosection {
     padding: 20px;
 }
+
+.jumbotron {
+    background-color: white;
+}
