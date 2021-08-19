@@ -24,10 +24,43 @@
       }
 
 .carousel-caption {
-    position: absolute;
+  position: absolute;
   margin: 0;
   color: white;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
+}
+
+#imagen {
+    text-align: center;
+    border-radius: 50%;
+    height: 90%;
+    width: 90%;
+    
+}
+
+.sectiontext {
+    margin: 50px;
+    padding-top: 25px;
+    vertical-align: baseline
+
+}
+
+.spacer1 {
+    padding: 20px;
+}
+
+.section1 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.imgbox {
+    padding: 10px;
+    text-align: center;
+}
+
+.jumbosection {
+    padding: 20px;
 }
