@@ -60,6 +60,7 @@
 .section1 {
     padding-top: 20px;
     padding-bottom: 15px;
+    background-image: url("Assets/Img/dollarrain.png");
 }
 
 .imgbox {
@@ -106,4 +107,21 @@
     text-align: center;
     padding: 20px;
     padding-bottom: 10px;
+}
+
+#Section1 {
+    background-color: ;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: lightblue;
+    text-align: center;
+    padding: 5px;
+}
+
+#conecticons {
+    text-align: center;
+    
 }
