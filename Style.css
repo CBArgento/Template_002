@@ -123,5 +123,10 @@ footer {
 
 #conecticons {
     text-align: center;
-    
+
+}
+
+#icon {
+    height: 60px;
+    width: 60px;
 }
