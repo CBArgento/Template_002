@@ -38,6 +38,7 @@
     height: 90%;
     width: 90%;
     
+    
 }
 
 .sectiontext {
@@ -51,6 +52,11 @@
     padding: 20px;
 }
 
+.spacer2 {
+    padding: 40px;
+}
+
+
 .section1 {
     padding-top: 20px;
     padding-bottom: 15px;
@@ -59,6 +65,7 @@
 .imgbox {
     padding: 10px;
     text-align: center;
+   
 }
 
 .jumbosection {
@@ -67,4 +74,36 @@
 
 .jumbotron {
     background-color: white;
+}
+
+#textright {
+    text-align: right;
+}
+
+.title {
+    text-align: center;
+}
+
+#compimg1 {
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+
+#compimg2 {
+    width: 30px;
+    height: 110px;
+    text-align: center;
+}
+
+#compimg3 {
+    width: 30px;
+    height: 100px;
+    text-align: center;
+}
+
+.complogos {
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 10px;
 }
