@@ -30,6 +30,8 @@
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
+  
+  
 }
 
 #imagen {
@@ -116,7 +118,7 @@
 }
 
 footer {
-    background-color: lightblue;
+    background-color: ;
     text-align: center;
     padding: 5px;
 }
@@ -131,4 +133,55 @@ footer {
     width: 95px;
 }
 
+.Businfo {
+    text-align: center;
+}
 
+
+
+
+/*@media only screen and (max-width: 768px) {
+  /* For mobile phones: 
+  [class*="col-"] {
+    width: 100%;
+  }
+}*/
+
+@media only screen and (max-width:1500px) {
+    .carousel-caption {
+        padding-bottom: 8%;
+    }
+}
+
+@media only screen and (max-width:1199px) {
+    .carousel-caption h3 {
+        font-size: 62px;
+    }
+    .carousel-caption p {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .carousel-caption p {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .carousel-caption {
+        padding-bottom: 8%;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .carousel-caption {
+        padding-bottom: 8%;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .carousel-caption {
+        padding-bottom: 8%;
+    }
+}
