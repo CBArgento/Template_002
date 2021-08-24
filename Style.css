@@ -185,3 +185,14 @@ footer {
         padding-bottom: 8%;
     }
 }
+
+
+/* Footer Text */
+
+#Footertext1 {
+    text-align: left;
+}
+
+#Footertext2 {
+    text-align: right;
+}
